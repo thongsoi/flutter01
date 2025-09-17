@@ -1,0 +1,10 @@
+flutter_go_chi_pg/
+│
+├── backend/
+│   ├── main.go
+│   ├── go.mod
+│   ├── .env
+│   └── db.sql
+│
+└── frontend/
+    └── flutter_app/
